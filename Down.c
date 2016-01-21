@@ -1,1 +1,2 @@
 int j;
+int cnt;
